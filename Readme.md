@@ -1,0 +1,1 @@
+## LoginPortal is a user authentication web application built using Flask,HTML,CSS,JS,MYSQL. This app provides a secure and straightforward registration and login system, allowing users to create accounts and access personalized features.
